@@ -12,4 +12,4 @@ A proposta é criar **efeitos animados em links de navegação**.
 - Usabilidade em menus interativos
 
 ## ✨ Autor
-Projeto desenvolvido por **Gabrieli Gardini Fernandes**, estudante do **PROA**.
+Projeto desenvolvido por Gabrieli Gardini Fernandes, estudante do PROA.
